@@ -19,4 +19,4 @@ Adicione aqui uma captura de tela mostrando a página aberta no navegador e uma 
 
 Exemplo:
 
-<img src=captura de tela devtools>
+![Captura de tela da atividade](captura de tela devtools)
